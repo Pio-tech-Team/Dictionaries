@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dictionaries</name>
+   <tag></tag>
+   <elementGuidId>3f02a187-e12d-484d-bd24-057503f2321d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ContentPlaceHolderMaster_RadRibbonBarUtilities']/div/div/div/div/div/div[2]/div/div/a/span/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.rrbTextContent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rrbTextContent</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dictionaries</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ContentPlaceHolderMaster_RadRibbonBarUtilities&quot;)/div[@class=&quot;rrbContentWrapOut&quot;]/div[@class=&quot;rrbContentWrapMid&quot;]/div[@class=&quot;rrbContentWrapIn&quot;]/div[@class=&quot;rrbButtonArea&quot;]/div[@class=&quot;rrbButtonAreaIn&quot;]/div[@class=&quot;rrbButtonGroup rrbButtonGroupHover&quot;]/div[@class=&quot;rrbButtonGroupIn&quot;]/div[@class=&quot;rrbControlGroup rrbAbox&quot;]/a[@class=&quot;rrbButtonOut rrbMediumButton&quot;]/span[@class=&quot;rrbButtonMid rrbMenuButton&quot;]/span[@class=&quot;rrbButtonIn&quot;]/span[@class=&quot;rrbButtonText&quot;]/span[@class=&quot;rrbTextContent&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ContentPlaceHolderMaster_RadRibbonBarUtilities']/div/div/div/div/div/div[2]/div/div/a/span/span/span[2]/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Assessment'])[1]/following::span[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliance'])[1]/following::span[9]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bands Builder'])[1]/preceding::span[7]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classifications'])[1]/preceding::span[17]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dictionaries']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+   </webElementXpaths>
+</WebElementEntity>
